@@ -5,7 +5,8 @@ export default function () {
         <div>
             <div className="center">
                 <h1 className="body--h1"> How it works </h1>
-                <h4> NFTs hangouts allow </h4>
+                <h4 className="body--h4"> NFTs Hangout allows any metaverse or marketplace to generate new revenue <br />
+                    streams, reimagine user experiences, and empower communities. </h4>
             </div>
             <div className="body--card">
                 <div className="card--center">
